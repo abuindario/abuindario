@@ -15,7 +15,7 @@ He cursado un Máster en Desarrollo de Software y Negocio Digital, que me aport�
 ¿Quieres enviarme un email? <a href="mailto:darioabuin@outlook.com">![](https://img.shields.io/badge/EMAIL-%23D51818)</a><br>
 ¿Prefieres que hablemos por LinkedIn? <a href="https://es.linkedin.com/in/darioabuinpose">![](https://img.shields.io/badge/LINKEDIN-%230077B5)</a>
 
-## Lenguajes y Tecnologías más utilizados
+## Tecnologías más utilizados
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![APEX](https://img.shields.io/badge/APEX-blue)
@@ -27,3 +27,4 @@ He cursado un Máster en Desarrollo de Software y Negocio Digital, que me aport�
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
