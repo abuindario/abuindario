@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 Hola, soy Darío Abuín 😄 
 
-<!--
-**abuindario/abuindario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy full-stack developer
 
-Here are some ideas to get you started:
+⚡ Me encanta la tecnología y como puede utilizarse para optimizar procesos en las empresas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+He cursado un Máster en Desarrollo de Software y Negocio Digital, que me aportó la formación necesaria para convertirme en un perfil orientado al sector TI. 
+
+¡Siempre aprendiendo cosas nuevas! Desde que finalizé mi formación reglamentaria he estado realizando otras formaciones muy interesantes:<br>
+- Backend con Java (Java SE, Java EE, JSP, JPA, Servlets, JDBC, Hibernate, WebServices...)
+- Bases de Datos Relacionales (SQL)
+- Frontend (React, HTML, CSS, JS...)
+- Salesforce (APEX, LWC)
+
+¿Quieres enviarme un email? <a href="mailto:darioabuin@outlook.com">![](https://img.shields.io/badge/EMAIL-%23D51818)</a><br>
+¿Prefieres que hablemos por LinkedIn? <a href="https://es.linkedin.com/in/darioabuinpose">![](https://img.shields.io/badge/LINKEDIN-%230077B5)</a>
+
+## Lenguajes y Tecnologías más utilizados
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![APEX](https://img.shields.io/badge/APEX-blue)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
