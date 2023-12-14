@@ -13,7 +13,7 @@ He cursado un Máster en Desarrollo de Software y Negocio Digital, que me aport�
 - Salesforce (APEX, LWC)
 
 ¿Quieres enviarme un email? <a href="mailto:darioabuin@outlook.com">![](https://img.shields.io/badge/EMAIL-%23D51818)</a><br>
-¿Prefieres que hablemos por LinkedIn? <a href="https://es.linkedin.com/in/darioabuinpose" target="_blank">![](https://img.shields.io/badge/LINKEDIN-%230077B5)</a>
+¿Prefieres que hablemos por LinkedIn? <a href="https://es.linkedin.com/in/darioabuinpose" target="_blank">![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5)</a>
 
 ## Tecnologías más utilizados
 
