@@ -7,13 +7,13 @@
 He cursado un Máster en Desarrollo de Software y Negocio Digital, que me aportó la formación necesaria para convertirme en un perfil orientado al sector TI. 
 
 ¡Siempre aprendiendo cosas nuevas! Desde que finalizé mi formación reglamentaria he estado realizando otras formaciones muy interesantes:<br>
-- Backend con Java (Java SE, Java EE, JSP, JPA, Servlets, JDBC, Hibernate, WebServices...)
-- Bases de Datos Relacionales (SQL)
-- Frontend (React, HTML, CSS, JS...)
+- Backend con Java (Java SE, Java EE, JSP, JPA, Servlets, JDBC, Hibernate, WebServices, Spring Boot...)
+- Bases de Datos Relacionales (MySQL, PostgreSQL)
+- Frontend (React, Angular, HTML, CSS, JS...)
 - Salesforce (APEX, LWC)
 
-¿Quieres enviarme un email? <a href="mailto:darioabuin@outlook.com">![](https://img.shields.io/badge/EMAIL-%23D51818)</a><br>
-¿Prefieres que hablemos por LinkedIn? <a href="https://es.linkedin.com/in/darioabuinpose" target="_blank">![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5)</a>
+¿Quieres enviarme un <a href="mailto:darioabuin@outlook.com">![](https://img.shields.io/badge/EMAIL-%23D51818)</a> ?<br>
+¿Prefieres que hablemos por <a href="https://es.linkedin.com/in/darioabuinpose" target="_blank">![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5) ?</a>
 
 ## Tecnologías más utilizados
 
