@@ -7,7 +7,7 @@
 He cursado un Máster en Desarrollo de Software y Negocio Digital (Universidad de A Coruña). 
 
 ¡Siempre aprendiendo cosas nuevas! Desde que finalizé mi formación reglamentaria he estado realizando otras formaciones muy interesantes:<br>
-- Backend con Java (JSP, JPA, JDBC, Hibernate, Servlets, WebServices, Spring: Boot, Cloud,s...)
+- Backend con Java (JSP, JPA, JDBC, Hibernate, Servlets, WebServices, Spring: Boot, Cloud...)
 - Bases de Datos Relacionales (MySQL, PostgreSQL)
 - Frontend (React, Angular, HTML, CSS, JS...)
 - Salesforce (APEX, LWC)
